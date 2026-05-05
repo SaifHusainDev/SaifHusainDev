@@ -1,16 +1,15 @@
 # 💫 Hi 👋, I'm Saif Husain
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate Full Stack Developer & Data Science Enthusiast from India**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+Email Me 👉 ✉️ saifhusain.net34@gmail.com for internships, jobs or collaboration opportunities
+- 🔭 I’m currently working on: Improving my Full Stack projects and building Data Science projects
+- 🌱 I’m currently learning: Django (Backend), Advanced Python, and basics of AWS & DevOps
+- 👯 I’m looking to collaborate on: Web Development and Data Science Projects
+- 🤔 I’m looking for help with: Real-world project ideas and improving backend development skills
+- 💬 Ask me about: Python, Web Development, and Data Science basics
+- 📫 How to reach me: saifhusain.net34@gmail.com
+- 😄 **Pronouns:** Saif Sir
+- ⚡ Fun fact: I enjoy building real-world projects and learning new technologies 🚀
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SaifHusainDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
